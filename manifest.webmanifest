@@ -1,9 +1,0 @@
-{
-  "name": "Acua Nails Price Calculator",
-  "short_name": "Acua Nails",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#fffafb",
-  "theme_color": "#7b5263",
-  "icons": []
-}
