@@ -1,1 +1,0 @@
-# acua-nails-calculator
